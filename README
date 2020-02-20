@@ -1,4 +1,6 @@
-  This software is copyright 1999 by J. David Blackstone.  Permission
+	在GitHub的第一次push，代码是基于tinyhttpd项目构建，初始版本并未做过多修改，仅实现了能够在ubuntu系统下正常运行；
+
+ This software is copyright 1999 by J. David Blackstone.  Permission
 is granted to redistribute and modify this software under the terms of
 the GNU General Public License, available at http://www.gnu.org/ .
 
