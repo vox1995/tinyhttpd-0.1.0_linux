@@ -1,6 +1,9 @@
-	在GitHub的第一次push，代码是基于tinyhttpd项目构建，初始版本并未做过多修改，仅实现了能够在ubuntu系统下正常运行；
-
- This software is copyright 1999 by J. David Blackstone.  Permission
+  对其中的函数做了小范围修改，可以更直接看到调用的函数，另外在其中做了大量的
+中文注释，对linux的一些常见的函数在其中的作用做了解释说明，有助于初学者更好的
+理解整个项目的逻辑框架，另外，对于此项目的关键部分的实现梳理，也同步到了本人的
+个人博客之中，目前仍存在部分问题，欢迎学习交流：https://vox1995.github.io/
+  以下为原始README部分
+  This software is copyright 1999 by J. David Blackstone.  Permission
 is granted to redistribute and modify this software under the terms of
 the GNU General Public License, available at http://www.gnu.org/ .
 
